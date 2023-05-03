@@ -1,2 +1,3 @@
-# snake-game
-snake game written in python 
+# Snake Game 
+## Features 
+- Highscore tracking 
